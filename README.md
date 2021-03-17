@@ -32,3 +32,5 @@
 
 微信群
 ![微信群](./assets/images/wechat_group.jpg)
+
+[v](./assets/video/github简单介绍及操作.mp4)
