@@ -106,5 +106,5 @@
 
 [clubhose频道](https://www.joinclubhouse.com/club/%E4%B8%AD%E5%9C%8B%E7%9A%84%E4%B8%AD%E5%8F%A4)
 
-微信群
-![微信群](./assets/images/wechat_group.jpg)
+公众号
+![公众号](./assets/image/../images/qr_code.jpg)
