@@ -1,1 +1,2 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+references/《清真集箋注》上海古籍出版社2008.pdf filter=lfs diff=lfs merge=lfs -text
