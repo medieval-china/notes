@@ -1,3 +1,2 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 references/《清真集箋注》上海古籍出版社2008.pdf filter=lfs diff=lfs merge=lfs -text
-references/红旗车机系统研究_锤子小组.pdf filter=lfs diff=lfs merge=lfs -text
