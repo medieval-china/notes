@@ -129,4 +129,4 @@
 
 Instagram Medieval-China
 
-![Instagram Medieval-China](./assets/images/../images/ins-Medieval-China.jpg)
+![Instagram Medieval-China](./assets/images/../images/ins-Medieval-China-small.png)
