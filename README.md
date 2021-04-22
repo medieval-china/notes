@@ -125,8 +125,8 @@
 
 公众号
 
-![公众号](./assets/image/../images/qr_code.jpg)
+![公众号](./assets/images/qr_code.jpg)
 
-Instagram Medieval-China
+Instagram
 
-![Instagram Medieval-China](./assets/images/../images/ins-Medieval-China-small.png)
+![Instagram Medieval-China](./assets/images/ins-Medieval-China.png)
