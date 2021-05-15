@@ -1,3 +1,13 @@
+# 公告
+
+网站已迁移至 [新网站](https://medieval-china.github.io)，拥有更好的排版及阅读体验。
+
+**烦请[移步](https://medieval-china.github.io)。**
+
+
+---
+
+
 ## 会议记录
 - ### 2021年5月
   + [8日 夜读李煜诗单](meetings/2021-05/5-8夜读李煜.pdf)
